@@ -1,5 +1,5 @@
-<h1 align="center">Hello universe, I'm Molly</h1>
-<h3 align="center">A full stack developer and consultant at Thoughtworks</h3>
+<h1 align="left">Hello universe, I'm Molly</h1>
+<h3 align="left">A full stack developer and consultant at Thoughtworks</h3>
 
 - 🔭 I’m currently working on **internal software for Thoughtworks employees**
 
