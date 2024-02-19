@@ -3,15 +3,18 @@
 
 - 🔭 I’m currently working on **internal software for Thoughtworks employees**
 
-- 🌱 I’m currently learning **infrastructure engineering and working toward the GCP Associate Cloud Engineer certification**
+- 🌱 I’m currently learning **full stack generative AI software engineering by building a Retrieval Augmented Generation chatbot**
+    🤖 let's just say I really love AI and the technology innovation opportunities it brings! AMA about what I've been up to 💚
 
-- 🤝 I’m looking for help with [building a new personal project in Java to add to my portfolio](https://github.com/mollycarroll)
+- 🤝 I’m looking for help with **my AI obsession...** anybody want to get on a call and nerd out about it with me?
 
-- 💬 Ask me about **microservices, devops, effective learning strategies**
+- 💬 Ask me about **generative AI, cloud infrastructure engineering, software architecture**
+
+- 📈 Recent achievement/new tech skill(s): **Google Cloud Platform Associate Cloud Engineer certification**
 
 - 📫 How to reach me **molly.carroll@thoughtworks.com**
 
-- 📄 Professional experience [https://tr.ee/mollycarrollresume](https://tr.ee/mollycarrollresume)
+- 📄 Professional experience - **comprehensive resource for this information** coming soon... 👀
 
 - ⚡ Fun fact **my favorite Beatles song is Glass Onion**
 
