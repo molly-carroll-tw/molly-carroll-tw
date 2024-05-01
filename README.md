@@ -1,12 +1,10 @@
 <h1 align="left">Hello universe, I'm Molly</h1>
 <h3 align="left">A full stack developer and consultant at Thoughtworks</h3>
 
-- 🔭 I’m currently working on **internal software for Thoughtworks employees**
+- 🔭 I’m currently working on **various generative AI solution development, leadership/training engagements & concept development + demonstration for TW client industry use cases**
 
-- 🌱 I’m currently learning **full stack generative AI software engineering by building a Retrieval Augmented Generation chatbot**
+- 🌱 I’m currently learning **everything AI-centered software engineering; how to build AI for a range of industries and specific use cases**
     🤖 let's just say I really love AI and the technology innovation opportunities it brings! AMA about what I've been up to 💚
-
-- 🤝 I’m looking for help with **my AI obsession...** anybody want to get on a call and nerd out about it with me?
 
 - 💬 Ask me about **generative AI, cloud infrastructure engineering, software architecture**
 
