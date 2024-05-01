@@ -1,5 +1,5 @@
 <h1 align="left">Hello universe, I'm Molly</h1>
-<h3 align="left">A full stack developer and consultant at Thoughtworks</h3>
+<h3 align="left">senior software engineer + AI innovation & solution development leader</h3>
 
 - 🔭 I’m currently working on **various generative AI solution development, leadership/training engagements & concept development + demonstration for TW client industry use cases**
 
